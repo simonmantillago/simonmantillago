@@ -1,7 +1,6 @@
 <div align="center">
-<img src="[[https://happy05dz.tumblr.com/image/164289564000](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"  align="center" style="width: 100%" />
+</div>
 
 ### <div align="center">I'm Simon, a passionate full-stack developer. Skilled in Java, Spring, JavaScript and React.</div>  
   
