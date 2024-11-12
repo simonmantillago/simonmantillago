@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"  align="center" style="height: 50%" />
 </div>
 
-### <h1 align="center">I'm Simon, a passionate full-stack developer. Skilled in Java, Spring, JavaScript and React.</h1>  
+### <h1 align="center">Hi, I'm Simon, a passionate full-stack developer from Colombia. Skilled in Java, Spring, JavaScript and React.</h1>  
   
 
 - 🔭 I’m currently honing my backend development skills.  
