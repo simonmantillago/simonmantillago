@@ -8,7 +8,7 @@
 - 🔭 I’m currently honing my backend development skills.  
   
 
-- 🌱 I’m currently learning React Native, Docker and AWS  
+- 🌱 I’m currently studiying for the CompTIA Security+ certificate 
   
 
 <br/>  
